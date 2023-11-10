@@ -2,7 +2,7 @@
 
 This Python application allows users to apply a watermark to a selected region of an image. It is built using Tkinter for the GUI and uses OpenCV for image processing. Built as a fun project during my participation in the 'Mastering OpenCV with Python course' offered by OpenCV.
 
-[![Video Demo](https://i.ytimg.com/vi/0wKTHITp3Qw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhEIFIocjAP&rs=AOn4CLB5C8FYUYOq_l4lJO66LtSgkfGuZw)](https://www.youtube.com/watch?v=0wKTHITp3Qw)
+[![Video Demo][https://d33v4339jhl8k0.cloudfront.net/docs/assets/591c8a010428634b4a33375c/images/5ab4866b2c7d3a56d8873f4c/file-MrylO8jADD.png](https://www.youtube.com/watch?v=0wKTHITp3Qw)
 
 ## Features
 
